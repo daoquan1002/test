@@ -21,5 +21,5 @@ https://github.com/daoquan1002/test/raw/refs/heads/main/Videos/blue-1.mp4
 https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
 #EXTINF:-1 tvg-id="NHKWorldPremium.jp" group-title="Japan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJcMlSCY2fXJTLwBfKLKkARmKXnG4wLZqGug&s",NHK World Premium (720p)
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-#EXTINF:-1 tvg-id="H2UHD" group-title="4K",HanoiTV 2 UHD
+#EXTINF:-1 tvg-id="H2UHD" group-title="4K",HanoiTV 2 UHD (4K)
 https://cloudstreamqh.tek4tv.vn/live/hanoi2.m3u8
